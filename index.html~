@@ -1,0 +1,164 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--
+Template Name: PlusBusiness
+Author: <a href="http://www.os-templates.com/">OS Templates</a>
+Author URI: http://www.os-templates.com/
+Licence: Free to use under our free template licence terms
+Licence URI: http://www.os-templates.com/template-terms
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>PlusBusiness</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="stylesheet" href="layout/styles/layout.css" type="text/css" />
+<script type="text/javascript" src="layout/scripts/jquery.min.js"></script>
+<script type="text/javascript" src="layout/scripts/jquery.jcarousel.pack.js"></script>
+<script type="text/javascript" src="layout/scripts/jquery.jcarousel.setup.js"></script>
+</head>
+<body id="top">
+<!-- ####################################################################################################### -->
+<div class="wrapper col1">
+  <div id="header">
+    <div id="logo">
+      <h1><a href="index.html">BMCC ELECTRONICS</a></h1>
+      <p>Best Products At Best Prices</p>
+    </div>
+    <div id="topnav">
+         <ul>
+        <li><a href="index.html">Home</a></li>
+        <li>
+			<a href="products.html">Products</a>
+			 <ul>
+            <li><a href="product1.html">SONY HD-TV</a></li>
+            <li><a href="product2.html">PANASONIC HD-TV</a></li>
+            <li><a href="product3.html">SAMSUNG HD-TV</a></li>
+          </ul>
+        </li>
+        <li><a href="contactus.html">Contact Us</a></li>
+        <li class="last"><a href="aboutus.html">About Us</a></li>
+      </ul>
+    </div>
+    <br class="clear" />
+  </div>
+</div>
+<!-- ####################################################################################################### -->
+<div class="wrapper col2">
+  <div id="featured_slide">
+    <div id="featured_content">
+      <ul>
+        <li><img src="images/panasonic.png" alt="" />
+          <div class="floater">
+            <h2>SONY HD-TV</h2>
+            <p>The best in entertainment. Access a world of movies, TV and apps, and
+          enjoy every moment in picture quality that goes beyond Full HD. With
+          X-Reality PRO, you will enjoy stunning clarity, sharpness and a more
+          refined picture..</p>
+            <p class="readmore"><a href="product1.html">Continue Reading &raquo;</a></p>
+          </div>
+        </li>
+        <li><img src="images/sony4.png" alt="" />
+          <div class="floater">
+            <h2>PANASONIC HD-TV</h2>
+            <p>Features an advanced LED Backlight Design which produces a wider color
+           range Local Dimming along with the Black Graduation Drive to delivery
+           great blacks in your video Super Bright Panel helping to brighten up
+           the content XUMO Discovery.</p>
+            <p class="readmore"><a href="product2.html">Continue Reading &raquo;</a></p>
+          </div>
+        </li>
+        <li><img src="images/samsung.png" alt="" />
+          <div class="floater">
+            <h2>SAMSUNG HD-TV</h2>
+            <p>With a sleek, futuristic, metallic design, your TV enhances your living space.
+           The SAMSUNG Smart TVs take the simplicity and fun of webOS to an even greater level
+            of entertainment with webOS 3.0. For one reason, and one reason only – so you
+            can easily stay on top of your prime time viewing.Virtual Surround Plus enhances
+            sound to create a surround sound effect. </p>
+            <p class="readmore"><a href="product3.html">Continue Reading &raquo;</a></p>
+          </div>
+        </li>
+      </ul>
+    </div>
+    <a href="javascript:void(0);" id="featured-item-prev"><img src="layout/images/prev.png" alt="" /></a> <a href="javascript:void(0);" id="featured-item-next"><img src="layout/images/next.png" alt="" /></a> </div>
+</div>
+<!-- ####################################################################################################### -->
+<div class="wrapper col3">
+  <div id="container">
+    <div class="homepage">
+      <ul>
+        <li>
+          <h2><img src="images/panasonic.png" height="60px" alt="" />SONY HD-TV</h2>
+          <p>The best in entertainment. Access a world of movies, TV and apps, and
+          enjoy every moment in picture quality that goes beyond Full HD. With
+          X-Reality PRO, you will enjoy stunning clarity, sharpness and a more
+          refined picture...</p>
+          <p class="readmore"><a href="product1.html">Continue Reading &raquo;</a></p>
+        </li>
+        <li>
+          <h2><img src="images/sony4.png" height="60px" alt="" />PANASONIC HD-TV</h2>
+          <p>Features an advanced LED Backlight Design which produces a wider color
+           range Local Dimming along with the Black Graduation Drive to delivery
+           great blacks in your video Super Bright Panel helping to brighten up
+           the content XUMO Discovery.</p>
+          <p class="readmore"><a href="product2.html">Continue Reading &raquo;</a></p>
+        </li>
+        <li class="last">
+          <h2><img src="images/samsung.png" height="60px" alt="" />SAMSUNG HD-TV</h2>
+          <p>With a sleek, futuristic, metallic design, your TV enhances your living space.
+           The SAMSUNG Smart TVs take the simplicity and fun of webOS to an even greater level
+            of entertainment with webOS 3.0. For one reason, and one reason only. </p>
+          <p class="readmore"><a href="product3.html">Continue Reading &raquo;</a></p>
+        </li>
+      </ul>
+      <br class="clear" />
+    </div>
+  </div>
+</div>
+<!-- ####################################################################################################### -->
+<div class="wrapper col4">
+  <div id="footer">
+    <div class="box1">
+      <h2>New Item Up-Coming</h2>
+      <img class="imgl" src="images/7.jpg" width="100px" alt="" />
+      <p>Morbitincidunt maurisque eros molest nunc anteget sed vel lacus mus semper. Anterdumnullam interdum eros dui urna consequam ac nisl nullam ligula vestassa. Condimentumfelis et amet tellent quisquet a leo lacus nec augue</p>
+      <p>Portortornec condimenterdum eget consectetuer condis.</p>
+    </div>
+    <div class="box contactdetails">
+      <h2>Our Contact Details !</h2>
+      <ul>
+        <li>Company Name</li>
+        <li>Street Name &amp; Number</li>
+        <li>Town</li>
+        <li>Postcode/Zip</li>
+        <li>Tel: xxxxx xxxxxxxxxx</li>
+        <li>Fax: xxxxx xxxxxxxxxx</li>
+        <li>Email: info@domain.com</li>
+        <li class="last">LinkedIn: <a href="#">Company Profile</a></li>
+      </ul>
+    </div>
+    <div class="box flickrbox">
+      <h2>Latest Flickr Images !</h2>
+      <div class="wrap">
+        <div class="fix"></div>
+        <div class="flickr_badge_image" id="flickr_badge_image1"><a href="#"><img src="images/1.png" width="80px" height="80px" alt="" /></a></div>
+        <div class="flickr_badge_image" id="flickr_badge_image2"><a href="#"><img src="images/2.jpg" width="80px" height="80px" alt="" /></a></div>
+        <div class="flickr_badge_image" id="flickr_badge_image3"><a href="#"><img src="images/3.png" width="80px" height="80px" alt="" /></a></div>
+        <div class="flickr_badge_image" id="flickr_badge_image4"><a href="#"><img src="images/4.jpg" width="80px" height="80px" alt="" /></a></div>
+        <div class="flickr_badge_image" id="flickr_badge_image5"><a href="#"><img src="images/5.png" width="80px" height="80px" alt="" /></a></div>
+        <div class="flickr_badge_image" id="flickr_badge_image6"><a href="#"><img src="images/6.jpg" width="80px" height="80px" alt="" /></a></div>
+        <div class="fix"></div>
+      </div>
+    </div>
+    <br class="clear" />
+  </div>
+</div>
+<!-- ####################################################################################################### -->
+<div class="wrapper col5">
+  <div id="copyright">
+    <p class="fl_left">Copyright &copy; 2014 - All Rights Reserved - <a href="#">Domain Name</a></p>
+    <p class="fl_right">Template by <a target="_blank" href="http://www.os-templates.com/" title="Free Website Templates">OS Templates</a></p>
+    <br class="clear" />
+  </div>
+</div>
+</body>
+</html>

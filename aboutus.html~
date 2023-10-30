@@ -1,0 +1,82 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--
+Template Name: PlusBusiness
+Author: <a href="http://www.os-templates.com/">OS Templates</a>
+Author URI: http://www.os-templates.com/
+Licence: Free to use under our free template licence terms
+Licence URI: http://www.os-templates.com/template-terms
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>PlusBusiness</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="stylesheet" href="layout/styles/layout.css" type="text/css" />
+</head>
+<body id="top">
+<!-- ####################################################################################################### -->
+<div class="wrapper col1">
+  <div id="header">
+    <div id="logo">
+      <h1><a href="index.html">BMCC ELECTRONICS</a></h1>
+      <p>Best Products At Best Prices</p>
+    </div>
+    <div id="topnav">
+        <ul>
+        <li><a href="index.html">Home</a></li>
+        <li>
+			<a href="products.html">Products</a>
+			 <ul>
+            <li><a href="product1.html">SONY HD-TV</a></li>
+            <li><a href="product2.html">PANASONIC HD-TV</a></li>
+            <li><a href="product3.html">SAMSUNG HD-TV</a></li>
+          </ul>
+        </li>
+        <li><a href="contactus.html">Contact Us</a></li>
+        <li class="last"><a href="aboutus.html">About Us</a></li>
+      </ul>
+    </div>
+    <br class="clear" />
+  </div>
+</div>
+<!-- ####################################################################################################### -->
+
+<!-- ####################################################################################################### -->
+<div class="wrapper col3">
+  <div id="container">
+    <div class="homepage">
+
+
+			<div style="text-align: left;width: 613px; padding: 0;">
+			<h1 style="font: normal 179% 'century gothic', arial, sans-serif;color: #43423F;margin: 0 0 15px 0; padding: 15px 0 5px 0;">About Us</h1>
+			<span style="float: left;width: auto; margin-right: 10px;"><img src="images/maleicon.png" width="100px"; alt="example graphic" /></span>
+			<p>
+			<div style="font-weight:bold">John Doe</div> Role: Designer Email: johndoe@abc.com<br>
+			Worked on the prototype and layout design of the project. Also responsible for
+			the menu part of the project.
+			</p>
+			<p /><p></p>
+			<span style="float: left;width: auto; margin-right: 10px;"><img src="images/femaleicon.png" width="100px" alt="example graphic" /></span>
+			<p>
+			<div style="font-weight:bold">Jane Smith</div>  Role: Tester Email:  janedoe@abc.com<br>
+			Main responsiblityes includs checking for errors such us broken links and design inconsistencies. Main
+			contact person for the project.
+			</p>
+			</div>
+
+
+    </div>
+  </div>
+</div>
+<!-- ####################################################################################################### -->
+
+<!-- ####################################################################################################### -->
+<div style="clear:both"></div>
+<div class="wrapper col5">
+  <div id="copyright">
+    <p class="fl_left">Copyright &copy; 2014 - All Rights Reserved - <a href="#">Domain Name</a></p>
+    <p class="fl_right">Template by <a target="_blank" href="http://www.os-templates.com/" title="Free Website Templates">OS Templates</a></p>
+    <br class="clear" />
+  </div>
+</div>
+</body>
+</html>
